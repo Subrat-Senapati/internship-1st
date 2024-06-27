@@ -1,2 +1,2 @@
 # internship-1st
-hgduuhdj
+first in mern stack
